@@ -115,7 +115,7 @@ CORS_ALLOWED_ORIGINS = [
     # Add your allowed origins here, e.g., 'http://localhost:3000'
 ]
 
-CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
 
 # Add any other necessary CORS settings as per your requirements
